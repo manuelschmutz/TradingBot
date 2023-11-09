@@ -1,0 +1,614 @@
+2023-11-09 09:36:49,172 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:36:49,635 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:36:49,645 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:36:50,096 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699519009635&signature=5e4a5768c78424c9f0ba117d27a998dcd1acb26d63824bf244aec4768c91add0 HTTP/1.1" 200 None
+2023-11-09 09:36:50,096 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:36:51,580 INFO : Binance connection openend
+2023-11-09 09:38:01,739 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:38:02,236 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:38:02,244 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:38:02,692 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699519082242&signature=dc27911dc82a0be43c77aca484ec06094510f3ec3265c7988900b7c0b84fb861 HTTP/1.1" 200 None
+2023-11-09 09:38:02,692 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:38:03,879 INFO : Binance connection openend
+2023-11-09 09:38:58,779 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:38:59,237 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:38:59,248 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:38:59,676 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699519139238&signature=efd970a67d8b13307bc7e05cdcb5dd5c9c82e95a67b1ed40bfc964107803d24f HTTP/1.1" 200 None
+2023-11-09 09:38:59,686 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:39:00,787 INFO : Binance connection openend
+2023-11-09 09:39:34,612 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:39:35,060 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:39:35,066 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:39:35,508 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699519175065&signature=94c622fb1c12a9fd5d3e40675815d50751490650dd1a3ba6d621df41b4936834 HTTP/1.1" 200 None
+2023-11-09 09:39:35,515 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:39:36,580 INFO : Binance connection openend
+2023-11-09 09:42:27,137 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:42:27,596 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:42:27,604 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:42:28,218 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699519347604&signature=030471825565c4b3ee457fe01e6cdfa9c55a05b4120c3a85365253e8998c5fda HTTP/1.1" 200 None
+2023-11-09 09:42:28,228 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:42:29,331 INFO : Binance connection openend
+2023-11-09 09:44:28,776 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:44:29,250 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:44:29,255 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:44:29,710 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699519469255&signature=53b5c1a20244e21a56ff747bb7cdaf0b267a3bfdab1cc8a78cff8cf62145c41d HTTP/1.1" 200 None
+2023-11-09 09:44:29,723 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:44:30,845 INFO : Binance connection openend
+2023-11-09 09:47:43,436 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:47:43,959 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:47:43,969 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:47:44,754 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699519663967&signature=2b6d997d3cced49cc88ee7888cb05f12e510b4ee24d68272d1ff364e68e26d5c HTTP/1.1" 200 None
+2023-11-09 09:47:44,760 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:47:45,963 INFO : Binance connection openend
+2023-11-09 09:51:24,255 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:51:24,734 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:51:24,739 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:51:25,215 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699519884738&signature=29f82c61a1abfb7d30269539bfb78cf6f5d9e03b977f2c01098c085de39db7e3 HTTP/1.1" 200 None
+2023-11-09 09:51:25,217 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:51:26,439 INFO : Binance connection openend
+2023-11-09 09:52:32,451 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:52:32,938 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:52:32,945 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:52:33,386 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699519952944&signature=2a68a63248fbbec6ade6cc789c35f3bef074978083af721307902379dc791977 HTTP/1.1" 200 None
+2023-11-09 09:52:33,391 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:52:34,503 INFO : Binance connection openend
+2023-11-09 09:53:43,390 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:53:43,873 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:53:43,885 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:53:44,339 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699520023883&signature=d715fa3b12732d3e88e8dbb56f9565d0a6a52fe5e13915af1844203b7b499d1f HTTP/1.1" 200 None
+2023-11-09 09:53:44,345 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:53:45,473 INFO : Binance connection openend
+2023-11-09 09:55:36,974 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:55:37,443 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 09:55:37,451 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 09:55:37,896 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699520137450&signature=6e0b1a863db712194f0e31402f072297bfab7f94c57ab7833265be76d33241e5 HTTP/1.1" 200 None
+2023-11-09 09:55:37,901 INFO : Binance Futures Client successfully initialized
+2023-11-09 09:55:39,047 INFO : Binance connection openend
+2023-11-09 09:56:00,894 INFO : BTCBUSD 36689.16 / 36689.18
+2023-11-09 09:56:00,940 INFO : BTCBUSD 36688.86 / 36689.18
+2023-11-09 09:56:03,018 INFO : BTCBUSD 36688.86 / 36689.18
+2023-11-09 09:56:03,096 INFO : BTCBUSD 36688.86 / 36689.18
+2023-11-09 09:56:03,195 INFO : BTCBUSD 36688.86 / 36689.32
+2023-11-09 09:56:05,314 INFO : BTCBUSD 36688.86 / 36689.32
+2023-11-09 09:56:05,338 INFO : BTCBUSD 36688.86 / 36690.51
+2023-11-09 09:56:05,375 INFO : BTCBUSD 36688.86 / 36692.57
+2023-11-09 09:56:06,906 INFO : BTCBUSD 36688.86 / 36692.57
+2023-11-09 09:56:06,978 INFO : BTCBUSD 36688.86 / 36719.86
+2023-11-09 09:56:11,091 INFO : BTCBUSD 36688.86 / 36693.77
+2023-11-09 09:56:11,123 INFO : BTCBUSD 36688.86 / 36693.77
+2023-11-09 09:56:13,185 INFO : BTCBUSD 36692.69 / 36693.77
+2023-11-09 09:56:15,389 INFO : BTCBUSD 36691.8 / 36691.81
+2023-11-09 09:56:16,997 INFO : BTCBUSD 36688.86 / 36691.81
+2023-11-09 09:56:17,014 INFO : BTCBUSD 36688.86 / 36693.77
+2023-11-09 09:56:19,046 INFO : BTCBUSD 36693.51 / 36693.77
+2023-11-09 09:56:21,192 INFO : BTCBUSD 36693.51 / 36696.9
+2023-11-09 09:56:23,355 INFO : BTCBUSD 36693.51 / 36701.64
+2023-11-09 09:56:24,893 INFO : BTCBUSD 36693.51 / 36701.64
+2023-11-09 09:56:24,931 INFO : BTCBUSD 36693.51 / 36719.86
+2023-11-09 09:56:26,996 INFO : BTCBUSD 36701.87 / 36719.86
+2023-11-09 09:56:26,997 INFO : BTCBUSD 36701.87 / 36701.88
+2023-11-09 09:56:29,066 INFO : BTCBUSD 36701.33 / 36701.35
+2023-11-09 10:22:46,960 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:22:48,254 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 10:22:48,262 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:22:49,114 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699521768262&signature=cb9105d85ac507a0668445331a11b1d3c87eea252d3bb994e704d1d52d60fe3b HTTP/1.1" 200 None
+2023-11-09 10:22:49,119 INFO : Binance Futures Client successfully initialized
+2023-11-09 10:22:50,257 INFO : Binance connection openend
+2023-11-09 10:24:17,145 INFO : BTCBUSD 36649.49 / 36654.14
+2023-11-09 10:24:19,306 INFO : BTCBUSD 36649.49 / 36654.4
+2023-11-09 10:24:20,903 INFO : BTCBUSD 36649.49 / 36656.01
+2023-11-09 10:24:22,977 INFO : BTCBUSD 36656.09 / 36667.32
+2023-11-09 10:24:25,086 INFO : BTCBUSD 36656.09 / 36667.32
+2023-11-09 10:24:25,112 INFO : BTCBUSD 36655.83 / 36667.32
+2023-11-09 10:24:27,168 INFO : BTCBUSD 36655.84 / 36667.32
+2023-11-09 10:24:29,277 INFO : BTCBUSD 36655.83 / 36667.32
+2023-11-09 10:24:31,311 INFO : BTCBUSD 36656.98 / 36667.32
+2023-11-09 10:24:31,336 INFO : BTCBUSD 36656.98 / 36656.99
+2023-11-09 10:24:32,900 INFO : BTCBUSD 36655.83 / 36656.99
+2023-11-09 10:24:34,985 INFO : BTCBUSD 36656.78 / 36656.99
+2023-11-09 10:24:37,098 INFO : BTCBUSD 36656.78 / 36656.99
+2023-11-09 10:24:37,111 INFO : BTCBUSD 36655.83 / 36656.99
+2023-11-09 10:24:37,138 INFO : BTCBUSD 36655.18 / 36656.99
+2023-11-09 10:24:39,264 INFO : BTCBUSD 36655.18 / 36656.99
+2023-11-09 10:24:39,296 INFO : BTCBUSD 36655.02 / 36656.99
+2023-11-09 10:24:41,364 INFO : BTCBUSD 36655.02 / 36655.35
+2023-11-09 10:24:42,996 INFO : BTCBUSD 36655.02 / 36656.99
+2023-11-09 10:24:45,054 INFO : BTCBUSD 36656.85 / 36656.99
+2023-11-09 10:24:45,078 INFO : BTCBUSD 36655.02 / 36656.85
+2023-11-09 10:24:47,147 INFO : BTCBUSD 36655.02 / 36656.85
+2023-11-09 10:24:47,191 INFO : BTCBUSD 36655.02 / 36656.99
+2023-11-09 10:24:47,235 INFO : BTCBUSD 36655.02 / 36658.09
+2023-11-09 10:24:49,286 INFO : BTCBUSD 36655.44 / 36658.09
+2023-11-09 10:24:49,330 INFO : BTCBUSD 36655.44 / 36658.09
+2023-11-09 10:24:50,922 INFO : BTCBUSD 36655.44 / 36655.45
+2023-11-09 10:24:50,947 INFO : BTCBUSD 36655.02 / 36655.45
+2023-11-09 10:24:52,998 INFO : BTCBUSD 36655.02 / 36655.45
+2023-11-09 10:24:53,035 INFO : BTCBUSD 36655.02 / 36655.45
+2023-11-09 10:24:53,059 INFO : BTCBUSD 36655.02 / 36655.45
+2023-11-09 10:24:55,101 INFO : BTCBUSD 36655.44 / 36655.45
+2023-11-09 10:24:55,147 INFO : BTCBUSD 36655.44 / 36658.09
+2023-11-09 10:24:57,216 INFO : BTCBUSD 36655.44 / 36656.71
+2023-11-09 10:24:59,343 INFO : BTCBUSD 36655.44 / 36656.92
+2023-11-09 10:25:00,986 INFO : BTCBUSD 36655.44 / 36657.09
+2023-11-09 10:25:03,013 INFO : BTCBUSD 36657.09 / 36658.09
+2023-11-09 10:25:05,108 INFO : BTCBUSD 36657.71 / 36658.09
+2023-11-09 10:25:07,165 INFO : BTCBUSD 36657.71 / 36658.09
+2023-11-09 10:25:07,311 INFO : BTCBUSD 36657.71 / 36661.45
+2023-11-09 10:25:08,852 INFO : BTCBUSD 36661.44 / 36661.45
+2023-11-09 10:25:08,875 INFO : BTCBUSD 36661.44 / 36661.45
+2023-11-09 10:25:10,944 INFO : BTCBUSD 36661.44 / 36661.45
+2023-11-09 10:25:10,991 INFO : BTCBUSD 36661.44 / 36661.45
+2023-11-09 10:25:11,044 INFO : BTCBUSD 36661.44 / 36667.32
+2023-11-09 10:25:13,107 INFO : BTCBUSD 36662.56 / 36667.32
+2023-11-09 10:25:13,152 INFO : BTCBUSD 36662.56 / 36662.57
+2023-11-09 10:25:15,223 INFO : BTCBUSD 36662.04 / 36662.05
+2023-11-09 10:25:16,890 INFO : BTCBUSD 36662.04 / 36662.57
+2023-11-09 10:25:16,970 INFO : BTCBUSD 36662.04 / 36662.57
+2023-11-09 10:25:17,059 INFO : BTCBUSD 36662.04 / 36662.89
+2023-11-09 10:25:19,137 INFO : BTCBUSD 36661.44 / 36661.94
+2023-11-09 10:25:21,231 INFO : BTCBUSD 36661.44 / 36661.94
+2023-11-09 10:25:21,286 INFO : BTCBUSD 36661.44 / 36662.78
+2023-11-09 10:25:23,369 INFO : BTCBUSD 36657.71 / 36662.78
+2023-11-09 10:27:40,665 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:27:41,176 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 10:27:41,187 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:27:41,636 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699522061187&signature=0c343d09b20c6250cef1fa9d9924eb52607756faed440cdb28dbdeec899ab9d1 HTTP/1.1" 200 None
+2023-11-09 10:27:41,643 INFO : Binance Futures Client successfully initialized
+2023-11-09 10:27:42,786 INFO : Binance connection openend
+2023-11-09 10:31:33,758 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:31:34,256 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 10:31:34,264 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:31:34,706 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699522294263&signature=875e06c1621e37f2691f3b5690a5cd9a29478320edfc9124342e5b8d72097b17 HTTP/1.1" 200 None
+2023-11-09 10:31:34,711 INFO : Binance Futures Client successfully initialized
+2023-11-09 10:31:35,788 INFO : Binance connection openend
+2023-11-09 10:38:08,118 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:38:08,586 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 10:38:08,591 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:38:09,036 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699522688590&signature=c0f4251016714c10c988ae5046bbfe50f6083a15b660dfd5b8f1811f48cb9b8c HTTP/1.1" 200 None
+2023-11-09 10:38:09,042 INFO : Binance Futures Client successfully initialized
+2023-11-09 10:38:10,158 INFO : Binance connection openend
+2023-11-09 10:38:26,954 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:38:27,406 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 10:38:27,413 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:38:27,847 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699522707412&signature=5e3cb016b42c93fa6f5a43e68afac5ef0513a13fd14502077426f7214f6908af HTTP/1.1" 200 None
+2023-11-09 10:38:27,855 INFO : Binance Futures Client successfully initialized
+2023-11-09 10:38:28,928 INFO : Binance connection openend
+2023-11-09 10:43:22,636 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:43:23,888 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 10:43:23,897 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:43:24,759 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699523003896&signature=1547a241ad89c4adccbbc88ee8cece3f3a1b8615fc74ac2290d53be925159b10 HTTP/1.1" 200 None
+2023-11-09 10:43:24,766 INFO : Binance Futures Client successfully initialized
+2023-11-09 10:43:25,929 INFO : Binance connection openend
+2023-11-09 10:45:38,503 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:45:39,631 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 10:45:39,639 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 10:45:40,489 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699523139639&signature=acb98c2a3d71fc68a33a256a6c7107a778bc46c871ece11b471525e90456d1e5 HTTP/1.1" 200 None
+2023-11-09 10:45:40,494 INFO : Binance Futures Client successfully initialized
+2023-11-09 10:45:41,574 INFO : Binance connection openend
+2023-11-09 13:42:29,869 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:42:30,531 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 13:42:30,538 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:42:31,394 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699533750537&signature=fa6292bffcdcb5342d98609abee6726e1d81180ff4aee69115d89b3a29cc5d10 HTTP/1.1" 200 None
+2023-11-09 13:42:31,400 INFO : Binance Futures Client successfully initialized
+2023-11-09 13:42:32,504 INFO : Binance connection openend
+2023-11-09 13:43:13,255 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:43:14,333 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 13:43:14,342 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:43:15,204 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699533794340&signature=11673bc91a585ddd99592bc28381cc91fa13a09e46acd1e7fa181c57a50d1349 HTTP/1.1" 200 None
+2023-11-09 13:43:15,210 INFO : Binance Futures Client successfully initialized
+2023-11-09 13:43:16,281 INFO : Binance connection openend
+2023-11-09 13:43:25,427 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:43:26,498 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 13:43:26,504 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:43:27,341 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699533806503&signature=0e81fab1318218c420bb8c05fe687b2d7e19bb1e21591f3e58bf1fbeae017ef9 HTTP/1.1" 200 None
+2023-11-09 13:43:27,343 INFO : Binance Futures Client successfully initialized
+2023-11-09 13:43:28,435 INFO : Binance connection openend
+2023-11-09 13:49:58,828 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:49:59,470 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 13:49:59,479 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:50:00,328 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699534199478&signature=978dadef03d9c8b97dd19c26d23e8d232a1f20e330b5a21b46329e372a3516e9 HTTP/1.1" 200 None
+2023-11-09 13:50:00,331 INFO : Binance Futures Client successfully initialized
+2023-11-09 13:50:01,504 INFO : Binance connection openend
+2023-11-09 13:50:46,109 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:50:47,170 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 13:50:47,178 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 13:50:48,019 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699534247178&signature=29be027344de9347b5ed2992277e47443438c49781fcba0e43626a777bc845cb HTTP/1.1" 200 None
+2023-11-09 13:50:48,024 INFO : Binance Futures Client successfully initialized
+2023-11-09 13:50:49,067 INFO : Binance connection openend
+2023-11-09 14:04:32,685 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:04:33,790 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:04:33,797 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:04:34,662 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699535073797&signature=811fb6397b17a7d5ec8d53c4d56922b55f833145feeca17429de929d5285a3a3 HTTP/1.1" 200 None
+2023-11-09 14:04:34,668 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:04:35,736 INFO : Binance connection openend
+2023-11-09 14:15:26,767 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:15:27,864 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:15:27,872 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:15:28,747 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699535727871&signature=b4b3c3ff5e42f557861942a212542abec4b929e6669e788c284948504d642eb2 HTTP/1.1" 200 None
+2023-11-09 14:15:28,753 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:15:29,875 INFO : Binance connection openend
+2023-11-09 14:15:36,361 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:15:37,219 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:18:18,083 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:18:19,182 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:18:19,193 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:18:20,050 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699535899192&signature=467da807750ced81e5477d6c15071c8003347464df1288ce82a3b87636bcbc1b HTTP/1.1" 200 None
+2023-11-09 14:18:20,058 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:18:21,138 INFO : Binance connection openend
+2023-11-09 14:18:24,623 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:18:25,484 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:18:42,077 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:18:42,938 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=ETHUSDT HTTP/1.1" 200 None
+2023-11-09 14:24:40,959 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:24:41,685 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:24:41,693 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:24:42,174 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699536281692&signature=f326cf7a4690884b8cb7d0ed59555d6080be33e82f37b5023f61166a32ed1692 HTTP/1.1" 200 None
+2023-11-09 14:24:42,181 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:24:43,278 INFO : Binance connection openend
+2023-11-09 14:24:46,749 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:24:47,214 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:26:21,361 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:26:22,587 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:26:22,597 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:26:23,529 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699536382596&signature=434a765e15105ee8ba0852ebddc8e1828f883e2e8c3c70856c4cc965e1217bf2 HTTP/1.1" 200 None
+2023-11-09 14:26:23,535 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:26:24,625 INFO : Binance connection openend
+2023-11-09 14:26:28,122 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:26:29,054 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:28:30,733 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:28:31,913 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:28:31,922 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:28:32,398 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699536511922&signature=7e8ec011b4ebe7e476dc1eb11d520f42f1f39f4e5768ae7a4071f7a0825c4ef2 HTTP/1.1" 200 None
+2023-11-09 14:28:32,400 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:28:33,501 INFO : Binance connection openend
+2023-11-09 14:29:23,600 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:29:24,782 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:29:24,788 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:29:25,726 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699536564787&signature=ad91e4c93471f04b0454d92ba0cf10ccc700b8918a5d1cace446a9e648509792 HTTP/1.1" 200 None
+2023-11-09 14:29:25,733 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:29:26,786 INFO : Binance connection openend
+2023-11-09 14:29:30,435 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:29:31,370 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:30:00,020 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:30:00,507 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=ETHUSDT HTTP/1.1" 200 None
+2023-11-09 14:30:13,933 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:30:15,100 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:30:15,108 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:30:16,046 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699536615108&signature=40ff633d83f3afb4fe2bdb43a3dff03b5e7d654d12d40f3ef111420418904876 HTTP/1.1" 200 None
+2023-11-09 14:30:16,053 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:30:17,157 INFO : Binance connection openend
+2023-11-09 14:30:20,742 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:30:21,223 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:31:46,970 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:31:48,165 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:31:48,169 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:31:49,112 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699536708168&signature=f5feb8a3226470696d1e7b73099d5ee916b6c4f4fe2934a905ca1ef82620f108 HTTP/1.1" 200 None
+2023-11-09 14:31:49,117 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:31:50,243 INFO : Binance connection openend
+2023-11-09 14:32:07,354 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:32:07,838 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:39:29,716 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:39:30,894 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:39:30,902 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:39:31,828 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699537170901&signature=4b46b6d182946cf633765bdcfc5a4640b4ffd45fe35e90bc9de65836ca35bab2 HTTP/1.1" 200 None
+2023-11-09 14:39:31,834 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:39:32,950 INFO : Binance connection openend
+2023-11-09 14:41:07,509 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:41:08,702 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:41:08,712 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:41:09,648 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699537268711&signature=24a68ab6a20503c1013c8bf184d8a2392f3f4dd8aac33343dc8fa232de90272b HTTP/1.1" 200 None
+2023-11-09 14:41:09,654 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:41:10,758 INFO : Binance connection openend
+2023-11-09 14:41:21,769 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:41:22,697 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:42:04,245 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:42:05,411 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:42:05,419 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:42:06,350 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699537325418&signature=23646588f13297547588e74bcfdfb39c0746c09bfd213bfe7c140a9b8c845210 HTTP/1.1" 200 None
+2023-11-09 14:42:06,355 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:42:07,412 INFO : Binance connection openend
+2023-11-09 14:42:13,950 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:42:14,887 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:43:06,796 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:43:07,976 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:43:07,984 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:43:08,465 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699537387983&signature=4fddbfe31bc4170560fdffc87c52464336b34c287f2b3951c8e0790667207cb8 HTTP/1.1" 200 None
+2023-11-09 14:43:08,472 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:43:09,548 INFO : Binance connection openend
+2023-11-09 14:43:14,577 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:43:15,518 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:43:36,196 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:43:37,359 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 14:43:37,368 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:43:38,312 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699537417367&signature=18b401ba3e00d41d2dd9c7e9f2e8eb2e773e032cd286a2155c1d6d92eee34fb6 HTTP/1.1" 200 None
+2023-11-09 14:43:38,319 INFO : Binance Futures Client successfully initialized
+2023-11-09 14:43:39,349 INFO : Binance connection openend
+2023-11-09 14:43:47,436 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 14:43:48,373 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 14:44:51,108 INFO : BTCBUSD 36908.0 / 36908.01
+2023-11-09 14:44:51,594 INFO : XMRUSDT 166.95 / 167.2
+2023-11-09 14:44:51,876 INFO : LTCUSDT 74.36 / 74.37
+2023-11-09 14:44:52,999 INFO : COMPUSDT 53.34 / 53.38
+2023-11-09 14:44:53,256 INFO : BTCBUSD 36908.0 / 36948.92
+2023-11-09 14:44:53,320 INFO : COMPUSDT 53.34 / 53.41
+2023-11-09 14:44:53,433 INFO : TRXUSDT 0.0998 / 0.09982
+2023-11-09 14:44:53,454 INFO : LTCUSDT 74.36 / 74.37
+2023-11-09 14:44:53,476 INFO : LTCUSDT 74.36 / 74.37
+2023-11-09 14:44:53,523 INFO : TRXUSDT 0.09978 / 0.09982
+2023-11-09 14:44:53,525 INFO : XMRUSDT 166.95 / 167.2
+2023-11-09 14:44:53,571 INFO : XMRUSDT 166.91 / 167.2
+2023-11-09 14:44:53,585 INFO : LTCUSDT 74.36 / 74.37
+2023-11-09 14:44:53,671 INFO : LTCUSDT 74.36 / 74.37
+2023-11-09 14:44:54,733 INFO : BTCUSDT 36862.3 / 36867.2
+2023-11-09 14:44:55,109 INFO : COMPUSDT 53.33 / 53.41
+2023-11-09 14:44:55,334 INFO : BTCBUSD 36912.81 / 36948.92
+2023-11-09 14:44:56,628 INFO : XMRUSDT 166.99 / 167.2
+2023-11-09 14:44:56,711 INFO : TRXUSDT 0.09977 / 0.09982
+2023-11-09 14:44:56,929 INFO : BTCBUSD 36915.02 / 36948.92
+2023-11-09 14:44:56,967 INFO : BTCBUSD 36915.02 / 36915.03
+2023-11-09 14:44:57,157 INFO : COMPUSDT 53.34 / 53.41
+2023-11-09 14:44:57,272 INFO : MKRUSDT 1345.3 / 1349.0
+2023-11-09 14:44:57,282 INFO : MKRUSDT 1345.3 / 1352.7
+2023-11-09 14:44:57,452 INFO : XMRUSDT 166.92 / 167.2
+2023-11-09 14:44:57,747 INFO : LTCUSDT 74.36 / 74.37
+2023-11-09 14:44:57,767 INFO : TRXUSDT 0.09978 / 0.09982
+2023-11-09 14:44:57,797 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:44:57,832 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:44:57,997 INFO : BNBUSDT 236.3 / 242.4
+2023-11-09 14:44:59,082 INFO : BTCBUSD 36915.53 / 36948.92
+2023-11-09 14:44:59,254 INFO : XMRUSDT 166.99 / 167.2
+2023-11-09 14:44:59,372 INFO : COMPUSDT 53.33 / 53.41
+2023-11-09 14:44:59,435 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:44:59,498 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:44:59,499 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:44:59,500 INFO : MKRUSDT 1345.3 / 1349.6
+2023-11-09 14:44:59,528 INFO : TRXUSDT 0.09977 / 0.0998
+2023-11-09 14:44:59,568 INFO : TRXUSDT 0.09977 / 0.0998
+2023-11-09 14:44:59,863 INFO : LTCUSDT 74.38 / 74.42
+2023-11-09 14:44:59,878 INFO : LTCUSDT 74.38 / 74.4
+2023-11-09 14:44:59,913 INFO : LTCUSDT 74.38 / 74.4
+2023-11-09 14:44:59,947 INFO : LTCUSDT 74.38 / 74.4
+2023-11-09 14:45:00,953 INFO : COMPUSDT 53.34 / 53.41
+2023-11-09 14:45:01,233 INFO : BTCBUSD 36919.18 / 36948.92
+2023-11-09 14:45:01,264 INFO : BTCBUSD 36919.18 / 36948.92
+2023-11-09 14:45:01,328 INFO : MKRUSDT 1345.3 / 1349.6
+2023-11-09 14:45:01,613 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:45:01,620 INFO : LTCUSDT 74.38 / 74.4
+2023-11-09 14:45:01,625 INFO : TRXUSDT 0.09978 / 0.09979
+2023-11-09 14:45:01,645 INFO : LTCUSDT 74.38 / 74.42
+2023-11-09 14:45:01,694 INFO : XMRUSDT 166.99 / 167.14
+2023-11-09 14:45:01,746 INFO : XMRUSDT 166.98 / 167.14
+2023-11-09 14:45:01,813 INFO : ETHUSDT 1912.47 / 1913.22
+2023-11-09 14:45:01,836 INFO : ETHUSDT 1912.47 / 1913.22
+2023-11-09 14:45:01,957 INFO : ETHUSDT 1912.47 / 1913.22
+2023-11-09 14:45:02,340 INFO : ETHUSDT 1912.47 / 1912.87
+2023-11-09 14:45:02,568 INFO : ETHUSDT 1912.47 / 1913.22
+2023-11-09 14:45:02,868 INFO : BTCBUSD 36919.18 / 36948.92
+2023-11-09 14:45:02,928 INFO : BTCBUSD 36919.18 / 36919.19
+2023-11-09 14:45:02,987 INFO : BTCBUSD 36919.18 / 36919.19
+2023-11-09 14:45:03,006 INFO : ETHUSDT 1912.47 / 1913.23
+2023-11-09 14:45:03,264 INFO : XMRUSDT 166.92 / 167.14
+2023-11-09 14:45:03,451 INFO : XMRUSDT 166.92 / 167.2
+2023-11-09 14:45:03,558 INFO : COMPUSDT 53.34 / 57.0
+2023-11-09 14:45:03,592 INFO : COMPUSDT 53.33 / 57.0
+2023-11-09 14:45:03,649 INFO : MKRUSDT 1345.3 / 1353.0
+2023-11-09 14:45:03,761 INFO : LTCUSDT 74.38 / 74.42
+2023-11-09 14:45:03,778 INFO : LTCUSDT 74.38 / 74.41
+2023-11-09 14:45:03,826 INFO : LTCUSDT 74.38 / 74.41
+2023-11-09 14:45:03,827 INFO : TRXUSDT 0.09977 / 0.09979
+2023-11-09 14:45:03,851 INFO : TRXUSDT 0.09977 / 0.0998
+2023-11-09 14:45:04,132 INFO : ETHUSDT 1912.81 / 1913.23
+2023-11-09 14:45:05,029 INFO : BTCBUSD 36919.18 / 36919.19
+2023-11-09 14:45:05,107 INFO : BTCBUSD 36919.18 / 36948.92
+2023-11-09 14:45:05,155 INFO : COMPUSDT 53.34 / 57.0
+2023-11-09 14:45:05,204 INFO : COMPUSDT 53.34 / 53.37
+2023-11-09 14:45:05,231 INFO : ETHUSDT 1912.81 / 1913.23
+2023-11-09 14:45:05,403 INFO : MKRUSDT 1345.3 / 1349.6
+2023-11-09 14:45:05,404 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:45:05,419 INFO : TRXUSDT 0.09978 / 0.09979
+2023-11-09 14:45:05,454 INFO : BNBUSDT 236.3 / 242.4
+2023-11-09 14:45:05,455 INFO : LTCUSDT 74.38 / 74.41
+2023-11-09 14:45:05,455 INFO : MKRUSDT 1345.3 / 1349.6
+2023-11-09 14:45:05,484 INFO : LTCUSDT 74.38 / 74.42
+2023-11-09 14:45:07,005 INFO : XMRUSDT 166.97 / 167.2
+2023-11-09 14:45:07,007 INFO : MKRUSDT 1347.2 / 1349.6
+2023-11-09 14:45:07,145 INFO : BTCBUSD 36920.6 / 36948.92
+2023-11-09 14:45:07,322 INFO : COMPUSDT 53.33 / 53.37
+2023-11-09 14:45:07,364 INFO : COMPUSDT 53.31 / 53.37
+2023-11-09 14:45:07,531 INFO : TRXUSDT 0.09978 / 0.09979
+2023-11-09 14:45:07,555 INFO : LTCUSDT 74.39 / 74.42
+2023-11-09 14:45:07,625 INFO : TRXUSDT 0.09978 / 0.09979
+2023-11-09 14:45:07,707 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:45:07,708 INFO : LTCUSDT 74.39 / 74.42
+2023-11-09 14:45:07,779 INFO : LTCUSDT 74.39 / 74.43
+2023-11-09 14:45:07,803 INFO : LTCUSDT 74.39 / 74.45
+2023-11-09 14:45:08,912 INFO : COMPUSDT 53.33 / 53.37
+2023-11-09 14:45:09,170 INFO : XMRUSDT 166.97 / 167.35
+2023-11-09 14:45:09,172 INFO : XMRUSDT 166.92 / 167.35
+2023-11-09 14:45:09,279 INFO : BTCBUSD 36920.6 / 36932.55
+2023-11-09 14:45:09,315 INFO : BTCBUSD 36920.6 / 36932.55
+2023-11-09 14:45:09,500 INFO : MKRUSDT 1347.2 / 1349.6
+2023-11-09 14:45:09,541 INFO : MKRUSDT 1346.8 / 1349.6
+2023-11-09 14:45:09,646 INFO : ETHUSDT 1912.81 / 1913.63
+2023-11-09 14:45:09,745 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:45:09,792 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:45:09,935 INFO : BTCUSDT 36838.9 / 36867.2
+2023-11-09 14:45:09,955 INFO : LTCUSDT 74.39 / 74.43
+2023-11-09 14:45:09,957 INFO : BTCUSDT 36862.3 / 36867.2
+2023-11-09 14:45:09,983 INFO : LTCUSDT 74.38 / 74.43
+2023-11-09 14:45:10,032 INFO : BTCUSDT 36846.8 / 36867.2
+2023-11-09 14:45:10,033 INFO : BTCUSDT 36846.8 / 36867.2
+2023-11-09 14:45:10,214 INFO : ETHUSDT 1912.81 / 1913.63
+2023-11-09 14:45:10,472 INFO : BNBUSDT 236.3 / 244.0
+2023-11-09 14:45:10,547 INFO : BNBUSDT 237.26 / 244.0
+2023-11-09 14:45:10,891 INFO : BTCBUSD 36933.38 / 36948.92
+2023-11-09 14:45:11,101 INFO : MKRUSDT 1347.2 / 1349.6
+2023-11-09 14:45:11,246 INFO : ETHUSDT 1912.81 / 1913.93
+2023-11-09 14:45:11,348 INFO : MKRUSDT 1347.2 / 1349.6
+2023-11-09 14:45:11,371 INFO : XMRUSDT 166.97 / 167.35
+2023-11-09 14:45:11,390 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:45:11,436 INFO : TRXUSDT 0.09978 / 0.09979
+2023-11-09 14:45:11,471 INFO : TRXUSDT 0.09978 / 0.09979
+2023-11-09 14:45:11,571 INFO : LTCUSDT 74.39 / 74.43
+2023-11-09 14:45:11,590 INFO : COMPUSDT 53.31 / 53.37
+2023-11-09 14:45:11,644 INFO : LTCUSDT 74.39 / 74.45
+2023-11-09 14:45:12,355 INFO : BTCUSDT 36851.9 / 36867.2
+2023-11-09 14:45:12,417 INFO : ETHUSDT 1912.81 / 1913.93
+2023-11-09 14:45:12,492 INFO : ETHUSDT 1912.81 / 1913.93
+2023-11-09 14:45:12,811 INFO : BTCUSDT 36851.9 / 36860.3
+2023-11-09 14:45:12,936 INFO : BTCUSDT 36851.9 / 36860.3
+2023-11-09 14:45:12,969 INFO : BTCBUSD 36920.6 / 36931.5
+2023-11-09 14:45:13,044 INFO : XMRUSDT 167.04 / 167.35
+2023-11-09 14:45:13,134 INFO : COMPUSDT 53.37 / 57.0
+2023-11-09 14:45:13,241 INFO : COMPUSDT 53.37 / 53.41
+2023-11-09 14:45:13,288 INFO : XMRUSDT 167.04 / 167.24
+2023-11-09 14:45:13,503 INFO : TRXUSDT 0.09979 / 0.0998
+2023-11-09 14:45:13,704 INFO : LTCUSDT 74.42 / 74.45
+2023-11-09 14:45:13,748 INFO : LTCUSDT 74.42 / 74.44
+2023-11-09 14:45:13,796 INFO : LTCUSDT 74.42 / 74.44
+2023-11-09 14:45:14,009 INFO : ETHUSDT 1912.81 / 1913.93
+2023-11-09 14:45:14,157 INFO : ETHUSDT 1912.81 / 1913.93
+2023-11-09 14:45:14,671 INFO : MKRUSDT 1347.2 / 1353.0
+2023-11-09 14:45:15,069 INFO : BTCBUSD 36920.6 / 36929.61
+2023-11-09 14:45:15,408 INFO : COMPUSDT 53.35 / 53.41
+2023-11-09 14:45:15,420 INFO : XMRUSDT 167.04 / 167.17
+2023-11-09 14:45:15,460 INFO : MKRUSDT 1347.2 / 1353.0
+2023-11-09 14:45:15,462 INFO : COMPUSDT 53.35 / 53.58
+2023-11-09 14:45:15,497 INFO : LTCUSDT 74.42 / 74.44
+2023-11-09 14:45:15,548 INFO : LTCUSDT 74.42 / 74.44
+2023-11-09 14:45:15,549 INFO : XMRUSDT 166.97 / 167.17
+2023-11-09 14:45:15,561 INFO : LTCUSDT 74.42 / 74.45
+2023-11-09 14:45:15,653 INFO : TRXUSDT 0.09978 / 0.09979
+2023-11-09 14:45:15,980 INFO : BTCUSDT 36838.9 / 36860.3
+2023-11-09 14:45:15,995 INFO : BTCUSDT 36840.2 / 36860.3
+2023-11-09 14:45:16,017 INFO : BTCUSDT 36840.2 / 36860.3
+2023-11-09 14:45:16,045 INFO : BTCUSDT 36838.9 / 36860.3
+2023-11-09 14:45:16,222 INFO : ETHUSDT 1913.08 / 1913.93
+2023-11-09 14:45:16,296 INFO : ETHUSDT 1913.08 / 1913.93
+2023-11-09 14:45:17,034 INFO : COMPUSDT 53.37 / 53.58
+2023-11-09 14:45:17,138 INFO : BTCBUSD 36929.6 / 36929.61
+2023-11-09 14:45:17,165 INFO : BTCBUSD 36929.6 / 36929.61
+2023-11-09 14:45:17,167 INFO : COMPUSDT 53.37 / 53.46
+2023-11-09 14:45:17,229 INFO : XMRUSDT 166.99 / 167.17
+2023-11-09 14:45:17,230 INFO : MKRUSDT 1347.2 / 1353.0
+2023-11-09 14:45:17,411 INFO : XMRUSDT 166.99 / 167.16
+2023-11-09 14:45:17,673 INFO : ETHUSDT 1913.08 / 1913.93
+2023-11-09 14:45:17,675 INFO : LTCUSDT 74.42 / 74.43
+2023-11-09 14:45:17,705 INFO : LTCUSDT 74.4 / 74.43
+2023-11-09 14:45:17,747 INFO : ETHUSDT 1913.08 / 1913.93
+2023-11-09 14:45:17,748 INFO : ETHUSDT 1910.18 / 1913.93
+2023-11-09 14:45:17,749 INFO : LTCUSDT 74.39 / 74.43
+2023-11-09 14:45:17,749 INFO : LTCUSDT 74.42 / 74.43
+2023-11-09 14:45:17,754 INFO : ETHUSDT 1910.18 / 1913.93
+2023-11-09 14:45:17,755 INFO : TRXUSDT 0.09978 / 0.09979
+2023-11-09 14:45:17,788 INFO : LTCUSDT 74.42 / 74.43
+2023-11-09 14:45:17,789 INFO : LTCUSDT 74.38 / 74.43
+2023-11-09 14:45:17,839 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:45:17,846 INFO : ETHUSDT 1909.18 / 1913.93
+2023-11-09 14:45:17,875 INFO : TRXUSDT 0.09978 / 0.0998
+2023-11-09 14:45:17,927 INFO : ETHUSDT 1909.18 / 1913.61
+2023-11-09 14:45:17,930 INFO : ETHUSDT 1909.18 / 1913.57
+2023-11-09 14:45:17,931 INFO : ETHUSDT 1909.18 / 1912.85
+2023-11-09 14:45:17,932 INFO : ETHUSDT 1909.18 / 1911.66
+2023-11-09 14:45:17,933 INFO : ETHUSDT 1909.18 / 1910.14
+2023-11-09 14:45:18,256 INFO : ETHUSDT 1909.18 / 1910.14
+2023-11-09 14:45:18,280 INFO : ETHUSDT 1909.18 / 1910.14
+2023-11-09 14:45:18,344 INFO : ETHUSDT 1908.59 / 1910.14
+2023-11-09 14:45:18,753 INFO : ETHUSDT 1908.59 / 1910.14
+2023-11-09 14:45:19,066 INFO : COMPUSDT 53.35 / 53.46
+2023-11-09 14:45:19,224 INFO : BTCBUSD 36930.91 / 36931.5
+2023-11-09 14:45:19,346 INFO : XMRUSDT 166.99 / 167.17
+2023-11-09 14:45:19,400 INFO : XMRUSDT 166.97 / 167.17
+2023-11-09 14:45:19,449 INFO : TRXUSDT 0.09979 / 0.0998
+2023-11-09 14:45:19,496 INFO : MKRUSDT 1347.2 / 1353.0
+2023-11-09 14:45:19,764 INFO : DOGEUSDT 0.0745 / 0.07974
+2023-11-09 14:45:19,765 INFO : DOGEUSDT 0.0745 / 0.07974
+2023-11-09 14:45:19,812 INFO : LTCUSDT 74.39 / 74.43
+2023-11-09 14:45:19,841 INFO : LTCUSDT 74.39 / 74.43
+2023-11-09 14:45:19,931 INFO : BTCUSDT 36838.9 / 36860.3
+2023-11-09 14:45:20,367 INFO : ETHUSDT 1908.59 / 1910.52
+2023-11-09 14:45:20,408 INFO : ETHUSDT 1908.59 / 1910.14
+2023-11-09 14:45:20,442 INFO : ETHUSDT 1908.59 / 1910.52
+2023-11-09 14:45:20,803 INFO : ATOMUSDT 8.001 / 9.52
+2023-11-09 14:45:20,836 INFO : ATOMUSDT 8.001 / 9.52
+2023-11-09 14:45:21,061 INFO : XMRUSDT 166.99 / 167.17
+2023-11-09 14:45:21,128 INFO : COMPUSDT 53.37 / 53.46
+2023-11-09 14:45:21,245 INFO : MKRUSDT 1347.2 / 1353.0
+2023-11-09 14:45:21,304 INFO : LTCUSDT 74.39 / 74.45
+2023-11-09 14:45:21,404 INFO : BTCBUSD 36920.6 / 36924.05
+2023-11-09 14:45:21,534 INFO : BTCUSDT 36838.9 / 36867.2
+2023-11-09 14:45:21,535 INFO : TRXUSDT 0.09979 / 0.0998
+2023-11-09 14:45:21,571 INFO : BTCUSDT 36838.9 / 36860.3
+2023-11-09 14:45:21,588 INFO : TRXUSDT 0.09979 / 0.0998
+2023-11-09 14:45:22,033 INFO : LTCUSDT 74.39 / 74.45
+2023-11-09 14:45:22,066 INFO : LTCUSDT 74.38 / 74.39
+2023-11-09 14:45:22,142 INFO : ETHUSDT 1908.59 / 1912.05
+2023-11-09 14:45:22,444 INFO : ETHUSDT 1910.08 / 1912.05
+2023-11-09 14:45:22,665 INFO : ETHUSDT 1910.08 / 1912.56
+2023-11-09 14:45:22,669 INFO : ETHUSDT 1910.08 / 1910.96
+2023-11-09 14:45:22,687 INFO : ETHUSDT 1910.08 / 1910.58
+2023-11-09 14:45:22,692 INFO : ETHUSDT 1910.08 / 1910.19
+2023-11-09 14:45:22,694 INFO : ETHUSDT 1909.33 / 1910.19
+2023-11-09 14:45:22,701 INFO : ETHUSDT 1910.08 / 1910.19
+2023-11-09 14:45:22,755 INFO : ETHUSDT 1910.08 / 1910.58
+2023-11-09 14:45:22,756 INFO : ETHUSDT 1910.08 / 1910.58
+2023-11-09 14:45:22,999 INFO : BTCBUSD 36922.93 / 36924.05
+2023-11-09 14:45:23,144 INFO : ETHUSDT 1910.08 / 1911.34
+2023-11-09 14:45:23,146 INFO : LTCUSDT 74.38 / 74.41
+2023-11-09 14:45:23,187 INFO : COMPUSDT 53.37 / 53.39
+2023-11-09 14:45:23,271 INFO : ETHUSDT 1910.08 / 1911.34
+2023-11-09 14:45:23,303 INFO : XMRUSDT 166.97 / 167.17
+2023-11-09 14:45:23,348 INFO : XMRUSDT 166.94 / 167.17
+2023-11-09 14:45:23,353 INFO : COMPUSDT 53.35 / 53.39
+2023-11-09 14:45:23,374 INFO : COMPUSDT 53.33 / 53.39
+2023-11-09 14:45:23,405 INFO : COMPUSDT 53.32 / 53.39
+2023-11-09 14:45:23,439 INFO : COMPUSDT 53.31 / 53.39
+2023-11-09 14:45:23,450 INFO : LTCUSDT 74.35 / 74.37
+2023-11-09 14:45:23,569 INFO : LTCUSDT 74.35 / 74.37
+2023-11-09 14:45:23,777 INFO : BTCUSDT 36838.9 / 36867.2
+2023-11-09 15:58:51,875 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 15:58:53,428 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 15:58:53,435 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 15:58:53,911 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699541933435&signature=4811bee2bcea9d22f669b197d895b7c4cc5e5d6313d55be415e12f081df6fc55 HTTP/1.1" 200 None
+2023-11-09 15:58:53,917 INFO : Binance Futures Client successfully initialized
+2023-11-09 15:58:55,057 INFO : Binance connection openend
+2023-11-09 15:58:58,492 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 15:58:58,962 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2023-11-09 16:10:18,746 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 16:10:19,524 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 16:10:19,534 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 16:10:20,457 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699542619533&signature=f00abf9d1a11d783bb9f651a1add02eb08690ca6bb900855497b1132aa33609a HTTP/1.1" 200 None
+2023-11-09 16:10:20,463 INFO : Binance Futures Client successfully initialized
+2023-11-09 16:10:21,535 INFO : Binance connection openend
+2023-11-09 16:16:31,452 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 16:16:32,653 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 16:16:32,662 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 16:16:33,606 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699542992661&signature=ca9555a7add910bf771b7070fb0c3832cb1a195a401bf2e3c07f88ed49ecd4c0 HTTP/1.1" 200 None
+2023-11-09 16:16:33,612 INFO : Binance Futures Client successfully initialized
+2023-11-09 16:16:34,717 INFO : Binance connection openend
+2023-11-09 16:22:23,121 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 16:22:23,622 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 16:22:23,631 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 16:22:24,563 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699543343630&signature=18c11b56e14dd1def00f9e11ade8777a06b44f0224d40960f323245e76c8a371 HTTP/1.1" 200 None
+2023-11-09 16:22:24,569 INFO : Binance Futures Client successfully initialized
+2023-11-09 16:22:25,664 INFO : Binance connection openend
+2023-11-09 17:12:46,396 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 17:12:47,578 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 17:12:47,814 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 17:12:48,760 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699546367813&signature=89ce411c1f9f14411c50714c3ab0963731a4561f30c6e283a32a03042d7a156d HTTP/1.1" 200 None
+2023-11-09 17:12:48,764 INFO : Binance Futures Client successfully initialized
+2023-11-09 17:12:50,238 INFO : Binance connection openend
+2023-11-09 17:13:30,250 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 17:13:30,967 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 17:13:30,977 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 17:13:31,455 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699546410976&signature=36c245e3d5ef19f161669c9c2ee37153f8d76c440cd06875a8e6a25fc4471976 HTTP/1.1" 200 None
+2023-11-09 17:13:31,458 INFO : Binance Futures Client successfully initialized
+2023-11-09 17:13:32,542 INFO : Binance connection openend
+2023-11-09 17:14:04,717 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 17:14:05,338 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-11-09 17:14:05,344 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 17:14:05,794 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v2/account?timestamp=1699546445343&signature=9e15b7f50eb0c5536c020a0ce82cfed904b3f4a21a82bb611f66e323e3c444e9 HTTP/1.1" 200 None
+2023-11-09 17:14:05,800 INFO : Binance Futures Client successfully initialized
+2023-11-09 17:14:07,304 INFO : Binance connection openend
+2023-11-09 17:14:16,397 DEBUG : Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-11-09 17:14:16,843 DEBUG : https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None

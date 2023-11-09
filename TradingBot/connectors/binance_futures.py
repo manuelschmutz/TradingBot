@@ -84,7 +84,7 @@ class BinanceFuturesClient:
 
         if exchange_info is not None:
             for contract_data in exchange_info['symbols']:
-                contracts[contract_data['pair']] = Contract(contract_data)
+                contracts[contract_data['symbol']] = Contract(contract_data)
 
         return contracts
 
@@ -195,6 +195,8 @@ class BinanceFuturesClient:
     def _on_open(self, ws):
         logger.info("Binance connection openend")
         self.subscribe_channel(list(self.contracts.values()), "bookTicker")
+        
+
 
     def _on_close(self, ws):
         logger.warning("Binance connection closed")
@@ -214,8 +216,7 @@ class BinanceFuturesClient:
                     self.prices[symbol]['bid'] = float(data['b'])
                     self.prices[symbol]['ask'] = float(data['a'])
 
-                if symbol == "BTCBUSD":
-                    self._add_log(symbol + " " + str(self.prices[symbol]['bid']) + " / " + str(self.prices[symbol]['ask']))                
+                    #self._add_log(symbol + " " + str(self.prices[symbol]['bid']) + " / " + str(self.prices[symbol]['ask']))                
 
 
     def subscribe_channel(self, contracts: typing.List[Contract], channel: str):
